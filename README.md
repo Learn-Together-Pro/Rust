@@ -1,0 +1,2 @@
+# LearnRustTogether
+Learn Rust Together
